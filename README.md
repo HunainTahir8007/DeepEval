@@ -1,1 +1,1 @@
-Evaluation of LLM powered Applications and workflows
+Evaluation of LLM powered Applications
